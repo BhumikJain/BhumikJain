@@ -1,6 +1,5 @@
 # 💫 About Me:-
 
-- 🔭 I'm currently learning node.js.
 - ⚡ cheemda man is my meme character
 - 📫 How to reach me bhumikjain925@gmail.com
 
